@@ -1,0 +1,24 @@
+
+.myContainer {
+    margin:auto;
+    width:1400px;
+}
+#positive_div, #negative_div {
+    float:left;
+    width:50%;
+    padding:10px;
+}
+#negative_div {
+    float:right;
+}
+#positive_div_box, #negative_div_box {
+    float:left;
+    padding:10px;
+}
+svg {
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 3px;
+}
